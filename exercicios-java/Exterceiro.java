@@ -30,6 +30,7 @@ public class Exterceiro
 	        double alturaMedia = sum / altura.length;
 	        double porcentagem = menorIdade / quantidade * 100;
 	        
+	    //aa
 	    
 	        
 	        sc.close();
