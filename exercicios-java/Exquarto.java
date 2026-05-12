@@ -27,9 +27,6 @@ public class Exquarto{
 
         System.out.printf("%nQuantidade de pares: %d", quantPares);
 
-
-        System.out.println("FIM!");
-
         sc.close();
     }
 }
