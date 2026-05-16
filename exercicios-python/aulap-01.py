@@ -40,4 +40,4 @@ n1 = n2
 print(n1)
 print(n2)
 
-
+print(f"Os valores originais -> a: {n1}, b: {n2}")
